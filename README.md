@@ -13,6 +13,8 @@ I’m @victoravtr, software developer and system administrator.
 <img height="20" src="https://raw.githubusercontent.com/github/explore/e15411113191afd939a6c8be9e71f270c98674e3/topics/python/python.png">
 </code>
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
 <!-- <img height="20" src="https://github.com/github/explore/blob/e15411113191afd939a6c8be9e71f270c98674e3/topics/typescript/typescript.png?raw=true">
 
 <img height="20" src="https://github.com/github/explore/blob/e15411113191afd939a6c8be9e71f270c98674e3/topics/javascript/javascript.png?raw=true">
