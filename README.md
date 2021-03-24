@@ -5,16 +5,17 @@ Welcome to my page!
 I’m @victoravtr, software developer and system administrator.
 
 ## Languages and Tools
-<img height="20" src="https://raw.githubusercontent.com/github/explore/e15411113191afd939a6c8be9e71f270c98674e3/topics/php/php.png">
+
+<img height="20" src="https://raw.githubusercontent.com/github/explore/e15411113191afd939a6c8be9e71f270c98674e3/topics/php/php.png" alt="php">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/e15411113191afd939a6c8be9e71f270c98674e3/topics/python/python.png" alt="python">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/e15411113191afd939a6c8be9e71f270c98674e3/topics/javascript/javascript.png" alt="javascript">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/e15411113191afd939a6c8be9e71f270c98674e3/topics/typescript/typescript.png" alt="typescript">
 
 
-<img height="20" src="https://raw.githubusercontent.com/github/explore/e15411113191afd939a6c8be9e71f270c98674e3/topics/python/python.png">
 
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<!-- 
 
-<!-- <img height="20" src="https://github.com/github/explore/blob/e15411113191afd939a6c8be9e71f270c98674e3/topics/typescript/typescript.png?raw=true">
 
-<img height="20" src="https://github.com/github/explore/blob/e15411113191afd939a6c8be9e71f270c98674e3/topics/javascript/javascript.png?raw=true">
 
 <img height="20" src="https://github.com/github/explore/blob/e15411113191afd939a6c8be9e71f270c98674e3/topics/react/react.png?raw=true">
 
