@@ -1,14 +1,28 @@
-# Hey there 👋 
-Welcome to my page!
+# Hey there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
+Welcome to my profile!
 
 I’m Víctor, software developer and system administrator.
 
-At the moment, I'm focusing on FullStack development (Python and React) and cybersecurity (hackthebox, tryhackme, vulnhub...). 
+## About Me
 
-## Languages and Tools
-<img height="30" src="https://raw.githubusercontent.com/github/explore/e15411113191afd939a6c8be9e71f270c98674e3/topics/php/php.png" alt="php"> <img height="30" src="https://raw.githubusercontent.com/github/explore/e15411113191afd939a6c8be9e71f270c98674e3/topics/python/python.png" alt="python"> <img height="30" src="https://raw.githubusercontent.com/github/explore/e15411113191afd939a6c8be9e71f270c98674e3/topics/javascript/javascript.png" alt="javascript"> <img height="30" src="https://raw.githubusercontent.com/github/explore/e15411113191afd939a6c8be9e71f270c98674e3/topics/typescript/typescript.png" alt="typescript"> <img height="30" src="https://raw.githubusercontent.com/github/explore/e15411113191afd939a6c8be9e71f270c98674e3/topics/react/react.png" alt="react"> <img height="30" src="https://raw.githubusercontent.com/github/explore/e15411113191afd939a6c8be9e71f270c98674e3/topics/angular/angular.png" alt="angular"> <img height="30" src="https://raw.githubusercontent.com/github/explore/e15411113191afd939a6c8be9e71f270c98674e3/topics/bash/bash.png" alt="bash"> <img height="30" src="https://raw.githubusercontent.com/github/explore/e15411113191afd939a6c8be9e71f270c98674e3/topics/linux/linux.png" alt="linux"> <img height="30" src="https://raw.githubusercontent.com/github/explore/e15411113191afd939a6c8be9e71f270c98674e3/topics/visual-studio-code/visual-studio-code.png" alt="vscode">
+- 🔭 I’m currently working on version 2.0 of my portfolio and RadioCast Extension
 
-## Stay Connected
+- 🌱 I’m currently learning FullStack development (Python and React) and Cybersecurity (hackthebox, tryhackme, vulnhub...).  
+
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href= https://github.com/victoravtr?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= https://github.com/victoravtr?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+<a href= https://github.com/victoravtr?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/victoravtr?tab=repositories&q=&type=&language=bash&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bash.svg'> </a>
+<a href= https://github.com/victoravtr?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
+<a href= https://github.com/victoravtr?tab=repositories&q=&type=&language=angularjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg'> </a>
+<a href= https://github.com/victoravtr?tab=repositories&q=&type=&language=linux&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
+<a href= https://github.com/victoravtr?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a>
+<a href= https://github.com/victoravtr?tab=repositories&q=&type=&language=nextjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg'> </a>
+
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+
 💬 Twitter: [@victorav__](https://twitter.com/victorav__)
 
 💼 Linkedin: [victorav](https://www.linkedin.com/in/victor-areces-valdes/)
