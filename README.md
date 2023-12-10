@@ -23,7 +23,6 @@ I’m Víctor, software developer and system administrator.
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-💬 Twitter: [@victorav__](https://twitter.com/victorav__)
 
 💼 Linkedin: [victorav](https://www.linkedin.com/in/victor-areces-valdes/)
 
